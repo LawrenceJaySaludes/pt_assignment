@@ -1,0 +1,29 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Lawrence",
+      "position": "Developer",
+      "location": "Agdao"
+    },
+    {
+      "id": 2,
+      "name": "Peejay",
+      "position": "Coders",
+      "location": "HCDC"
+    },
+    {
+      "id": 3,
+      "name": "Alver",
+      "position": "Hacker",
+      "location": "HCDC"
+    },
+    {
+      "id": 5,
+      "name": "Marken",
+      "position": "Programmer",
+      "location": "HCDC"
+    }
+  ]
+}
